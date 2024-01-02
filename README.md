@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shihang Li, a software engineer with experience in full-stack web development.
-- 👀 I’m looking for a full-time, new grad/entry-level position in Software Engineering.
+- 👋 Hi, I’m Shihang Li, a software engineer with 1.5 years of experience in full-stack web development.
+- 👀 I’m looking for a full-time, entry-level position in Software Engineering.
 - 💞️ I'm interested in Full-Stack web development using Java, Spring Boot, Angular, React, Typescript, JavaScript.
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/shihangli/).
 
