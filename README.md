@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Shihang Li, a recent CS college grad from the University of Nebraska at Omaha.
+- 👋 Hi, I’m Shihang Li, a software engineer with experience in full-stack web development. I graduated with a Bachelor's degree in Computer Science from the University of Nebraska at Omaha.
 - 👀 I’m looking for a full-time, new grad/entry-level position in Software Engineering.
-- 💞️ I'm interested in front-end web development (Angular, React, Typescript, JavaScript, etc) and back-end web development.
-- 🌱 I’m currently learning: Angular, React, Spring Boot.
+- 💞️ I'm interested in Full-Stack web development using Java, Spring Boot, Angular, React, Typescript, JavaScript.
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/shihangli/).
 
 <!---
